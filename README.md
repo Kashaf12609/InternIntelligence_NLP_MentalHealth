@@ -31,10 +31,9 @@ The goal is to understand how machine learning models can be trained on text dat
    ```bash
    git clone https://github.com/YourUsername/InternIntelligence_NLP_MentalHealth.git
    cd InternIntelligence_NLP_MentalHealth
-Install required libraries:
-  ```bash
+2. Install required libraries:
+   ```bash
   pip install -r requirements.txt
-
-Run the notebook:
-```bash
+3.Run the notebook:
+   ```bash
   jupyter notebook nlp-mental-health.ipynb
