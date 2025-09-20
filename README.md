@@ -20,7 +20,7 @@ The goal is to understand how machine learning models can be trained on text dat
 ## 📂 Repository Contents
 - **`nlp-mental-health.ipynb`** → Main Jupyter Notebook with the full code and analysis.  
 - **`requirements.txt`** → List of dependencies to run the project.  
-- **Dataset** → (Add here if included, or provide a Google Drive/Kaggle link).  
+- **Dataset** → https://www.kaggle.com/code/kashafgillani/nlp-mental-health  
 - **README.md** → Project documentation.  
 
 ---
