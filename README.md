@@ -33,7 +33,7 @@ The goal is to understand how machine learning models can be trained on text dat
    cd InternIntelligence_NLP_MentalHealth
 2. Install required libraries:
    ```bash
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 3.Run the notebook:
    ```bash
-  jupyter notebook nlp-mental-health.ipynb
+   jupyter notebook nlp-mental-health.ipynb
