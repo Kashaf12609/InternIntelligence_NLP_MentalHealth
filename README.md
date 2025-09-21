@@ -29,7 +29,7 @@ The goal is to understand how machine learning models can be trained on text dat
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/InternIntelligence_NLP_MentalHealth.git
+   git clone https://github.com/Kashaf12609/InternIntelligence_NLP_MentalHealth.git
    cd InternIntelligence_NLP_MentalHealth
 2. Install required libraries:
    ```bash
